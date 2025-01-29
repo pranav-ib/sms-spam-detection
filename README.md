@@ -54,9 +54,6 @@ The best-performing model was chosen based on precision, achieving an accuracy o
 ## Web Deployment
 The trained model is deployed using **Streamlit**, providing a simple web interface where users can input a message to check if it is spam or not.
 
-### 🎯 **Live Demo**
-Try out the SMS Spam Detection model here: [🔗 Live Demo](https://textsafe.streamlit.app/)
-
 ## Installation & Usage
 To run the SMS Spam Detection model locally, follow these steps:
 
