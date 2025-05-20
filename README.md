@@ -39,18 +39,6 @@ EDA was performed to understand the dataset better. The following insights were 
 - Word clouds for spam and non-spam messages
 - Most frequent words in spam texts
 
-## Model Building and Selection
-Several machine learning models were evaluated, including:
-- **Naive Bayes**
-- **Random Forest**
-- **K-Nearest Neighbors (KNN)**
-- **Decision Tree**
-- **Logistic Regression**
-- **ExtraTreesClassifier**
-- **Support Vector Classifier (SVC)**
-
-The best-performing model was chosen based on precision, achieving an accuracy of **100%**.
-
 ## Web Deployment
 The trained model is deployed using **Streamlit**, providing a simple web interface where users can input a message to check if it is spam or not.
 
@@ -59,8 +47,8 @@ To run the SMS Spam Detection model locally, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 
-git clone https://github.com/your-username/SMS-Spam-Detection.git
-cd SMS-Spam-Detection
+git clone https://github.com/pranav-ib/sms-spam-detection.git
+cd sms-spam-detection
 
 2️⃣ Install Dependencies
 
